@@ -15,7 +15,3 @@ while count < 10_001:
 
 
 print(primes[10_000])
-
-
-# with applied for-if-else conection
-# https://stackoverflow.com/questions/9979970/why-does-python-use-else-after-for-and-while-loops

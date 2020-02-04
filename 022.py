@@ -19,5 +19,4 @@ def calculate(names, values):
     return print(total_score)
 
 
-name = ['PATRICIA']
 calculate(names, letters_values)
